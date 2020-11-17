@@ -1,0 +1,12 @@
+{
+  "name": "o1o",
+  "description": "o1o is a minimalist html page project",
+  "repository": "https://github.com/Meshredded/o1o",
+  "keywords": [
+    "node",
+    "express",
+    "heroku",
+    "html hello world"
+  ],
+  "image": "heroku/nodejs"
+}
