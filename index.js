@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const { PORT=5000, LOCAL_ADDRESS='localhost' } = process.env;
+const { PORT=5000, LOCAL_ADDRESS='0.0.0.0' } = process.env;
 
 try {
   express()
